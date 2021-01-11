@@ -5,7 +5,7 @@
 
       <div :class="inputClass" class="input-group">
         <input type="text" class="form-control"
-                           :readonly="control.readonly"
+                           :readonly="true"
                            :name="control.fieldName"
                            :value="demo_value">
       </div>

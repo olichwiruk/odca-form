@@ -48,6 +48,7 @@ FORM_CONSTANTS.Control = {
     attrName: "",
     attrType: "",
     encoding: "utf-8",
+    referencedSchemaName: "",
 
     // validation
     required: false,
